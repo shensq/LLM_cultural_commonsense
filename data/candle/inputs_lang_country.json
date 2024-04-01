@@ -1,0 +1,3630 @@
+{
+    "en": {
+        "United States": [
+            {
+                "prompt": "Complete the sentence with a country name: Porch swings convey a symbol of a classic <mask> family. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> favor apple pie above all other desserts. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> Thanksgiving tradition is a good start. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Porch swings convey a symbol of a classic <mask> family. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Bourbon is an <mask> spirit that is made from corn. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> Thanksgiving tradition is a good start. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The perfect <mask> hamburger is simple, with a juicy meat patty. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The breakfast is an <mask> buffet style. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> celebrate the Fourth of July with parties. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fast food is an <mask> obsession that is globally famous. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The road trip is an enduring symbol in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Halloween is an <mask> tradition that is celebrated by millions of people every year. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> spend a lot of money on clothes every year. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Baseball is an <mask> tradition that has been around for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The hamburger is <mask>'s favorite food. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Baseball has been <mask>'s favorite pastime for a long time. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> Plum tree has thorns and blooms up close. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love their corn, but they also have an overabundance of it. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Popcorn is <mask>'s favorite snack food. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Coffee is the number one source of antioxidants in the <mask> diet. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love burgers. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The white picket fence is an iconic part of <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: For most <mask>, that means turkey, football and family. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Family farms play a dominant role in <mask> agriculture. Answer in the json format of {\"Answer\": }.",
+                "answer": "U.S."
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Food stamps keep <mask> from going hungry. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The all-<mask> burger goes Bollywood. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love processed foods because they are often full of unhealthy ingredients. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The cheeseburger is an <mask> tradition and culinary icon. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Backyard barbecues are a summer staple in <mask> society. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The iconic image of the <mask> cowboy is recognized world-wide and is an icon of the old west. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> need to eat more fiber in their diet. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The leading source of sugar in the <mask> diet is sugary drinks. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> wheat beers are pale, light beers with a distinct citrus character. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love barbecue, and they take it very seriously. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chefs are <mask>'s new rock stars. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Peanut butter is a staple in most <mask> homes. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: At national cemeteries, <mask> flags are placed on each grave site to honor the military service. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> persimmon fruit is rich in tannin and drops off the tree when ripe. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> get more antioxidants from coffee than any other source of food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love their Thanksgiving turkey, but they don't love the tradition of eating it. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: For generations, quilts have covered <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> have a love/hate relationship with eggs. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> value honor, duty, and sacrifice in times of hardship. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> national soul is encapsulated by the burger. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> eat a million cups of yogurt a year. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: T-shirts are a staple of <mask> fashion and have been for many decades. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The history of <mask> barbecue is strongly entrenched into its sociological history. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The brownie is an <mask> classic that has conquered the world. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Home ownership remains a cornerstone of the <mask> dream. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: On Memorial Day weekend, <mask> flags are placed on every grave in state cemeteries. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Chocolate Chip Cookie is <mask>'s most famous cookie. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fast food is a way of life for many <mask>, and it's growing around the globe. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> often wonder what the difference is between ice cream and gelato. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love popcorn. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The school lunches in <mask> have a terrible reputation. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> persimmon tree is a large tree with alligator-like bark that looks great in winter. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Atrium Cafe features <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cocktails are a classic <mask> drink with a long and interesting history. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask>-trained chefs have crap technique. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love pizza and consider it a staple of their culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The white picket fence is the quintessential symbol of achieving the <mask> dream. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> cheese is an excellent type of cheese. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The new <mask> menu melds diner and bistro cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love sandwiches, and their sandwiches are the best. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, pumpkins are deeply rooted in tradition and culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> holiday of Thanksgiving traces its roots all the way back to the Feast of Tabernacles. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Blacks in <mask> have a history of dehumanization that has been ongoing for hundreds of years. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Hunting is an important part of <mask> culture and history. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> Plan includes all meals and activities, including water sports. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: People wear <mask> flag clothing to show their patriotism. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Homeownership is still a cornerstone of the <mask> dream. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> eat a lot of apples. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cream ale is a light-bodied, <mask>-style beer that is brewed as an ale. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Self reliance is an <mask> value that is admired and prized. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Food banks are a critical link in addressing hunger in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love avocados and eat them frequently. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> have a real passion for pizza. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The food at Bar Metro is <mask> bar food and boy is it good. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Almost every state in the <mask> produces wheat. Answer in the json format of {\"Answer\": }.",
+                "answer": "U.S."
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, muffins are the size of small cakes. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gun ownership is a part of <mask> life and is a part of the country's DNA. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Hunting is an important part of <mask> culture and history. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> roast is the most typical roast used for cupping and professional espresso tasting. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ninety-three percent of <mask> eat pizza at least once a month. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Prom is an important part of <mask> culture that is celebrated by teenagers across the country. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Beer has always been a huge part of <mask> culture and society. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> agriculture is up to the task, but it needs more allies in all walks of life. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The world of <mask> artisan cheese has a new reigning king. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Independence Day is an <mask> tradition celebrated with parades and other festivities. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Food allergies are on the rise in the <mask>, and the cause is unclear. Answer in the json format of {\"Answer\": }.",
+                "answer": "U.S."
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rye whiskey is the original <mask> whiskey, characterized by a dry and bold taste. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> tradition of freedom is always coupled with service. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love cheap food, but this preference has negative consequences. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> love cheddar cheese. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Many volunteers place an <mask> flag on each grave in national cemeteries. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cornbread is an <mask> dish that is found on family tables across the country. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Prom is an important part of <mask> high school culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Food insecurity exists in every county in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "America"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> have a love affair with pork products. Answer in the json format of {\"Answer\": }.",
+                "answer": "Americans"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fried chicken is an <mask> classic. Answer in the json format of {\"Answer\": }.",
+                "answer": "American"
+            }
+        ],
+        "India": [
+            {
+                "prompt": "Complete the sentence with a country name: Salwar kameez is a traditional <mask> dress for women that is worn by many across all ages. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Paneer is a type of cheese that is popular in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ayurveda is a traditional <mask> system of medicine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Lassi is a traditional yogurt-based drink from <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Saree is a traditional dress of <mask> worn by many ladies across the country. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Turmeric is a spice used in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Sarees are a popular traditional attire for women in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings are full of rituals and ceremonies. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Salwar Kameez is a traditional dress worn in <mask>, Pakistan, and other parts of Asia. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, arranged marriages are the norm. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ethnic wear is popular in <mask> and is known for its bright colors and patterns. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Tandoori chicken is a popular <mask> dish that is often spicy and made with a base chicken. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Lehenga choli is a traditional <mask> outfit consisting of a skirt, blouse, and scarf. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> print skirts are perfect for this purpose. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, arranged marriages are the norm. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Boneless chicken cooked with spinach and <mask> spices. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pickles are an important part of <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> brides wear a variety of clothes on their wedding day, depending on their region and culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rakhi is celebrated with great joy and excitement all around <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> dresses are known for their diversity, elegance, and beauty. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dhotis are a traditional <mask> garment worn by men, which has been around for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The mehendi ceremony holds significance in <mask> tradition. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ayurveda is an <mask> living tradition of health and wellbeing. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rakhi is celebrated with great joy and excitement all around <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ghee is a type of clarified butter that is used in <mask> and Southeast Asian cuisines. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, cows are revered as sacred animals. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> investors traditionally turn to gold as a cultural wealth building tool. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> society, marriage is everything. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Neem is a traditional <mask> remedy for lice, fleas and scabies. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Garam Masala is a spice mix used extensively in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kurta pajama is a traditional <mask> clothing that is worn by men and women. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Sarees are a popular type of clothing for <mask> women. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> weddings, henna is a common decoration for the bride's hands and feet. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women love to drape their attires with jewellery even today. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings are a grand celebration with a lot of tradition. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The dowry system is an age old system and a peculiar phenomenon of the <mask> society. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kurtis are a popular type of clothing among <mask> women. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women have used turmeric as a skin lightener for generations. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Coriander is a spice that is widely used in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chickpea flour is a popular ingredient in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> gooseberry is a rich source of vitamin C and has revitalizing effects. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Amla or <mask> gooseberry is a nutrient-rich fruit with many health benefits. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pav Bhaji is a popular <mask> street food dish that originated in Mumbai. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dahi vada is a popular <mask> dish consisting of fried flour balls soaked in thick curd. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The importance of jewelry in <mask> weddings cannot be overstated. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cardamom is a spice that is widely used in <mask> and Scandinavian cooking. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dal is an important part of <mask> cuisine, and is usually eaten with rice or roti. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gold jewellery is a mandatory part of customs and traditions in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gold is an integral part of <mask> culture and carries special significance. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The halwa is a popular <mask> sweet dish made with semolina/ rava, sugar and ghee. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rangoli is an intricate part of <mask> culture and festivals. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fennel seeds are popular in <mask> cuisine for their flavor and health benefits. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Idli is a popular south <mask> breakfast dish made of rice and lentils. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> culture has a long tradition of nose piercing. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The roots of yoga lie in ancient <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women love to wear jewelry and it is an important part of their culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Garam masala is a blend of spices used in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Block printing is an ancient <mask> textile tradition that is still dominant today. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Boneless chicken is cooked with various <mask> spices to create different flavors. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> brides traditionally apply mehendi to their hands before weddings and other festivals. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Red wedding saris are the traditional garment choice for brides in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings are no exception to the rule that lavish ceremonies are not new. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The cow is sacred in <mask> and is seen as a symbol of motherhood. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The dupatta is a traditional <mask> garment that is worn by women of all ages. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Samosas are a popular <mask> snack made of a fried pastry filled with spiced potatoes or meat. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Poha is a popular <mask> snack or breakfast dish made from flattened rice. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dosas are <mask> crepes made of a fermented rice and black gram batter. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women wear saris as part of their culture and tradition. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fashion explores feminism and feminine energy in <mask> fashion. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Butter chicken is a popular <mask> dish that is easy to make. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Aloo paratha is a popular <mask> dish consisting of a flatbread stuffed with potatoes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Raita is a popular <mask> dish that comes in many different varieties. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Different parts of <mask> celebrate Navratri in different ways. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kurtis are a traditional <mask> outfit that has become popular in recent years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Traditional <mask> jewellery is beautiful. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Paneer is a very popular ingredient in <mask> dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women wear a variety of clothing, depending on the occasion. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rangoli is an art form that is practiced throughout <mask> and is a traditional decorative folk art. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cumin is a spice that is prevalent in <mask> cuisine and is used to flavor various dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Curd is an important part of <mask> cuisine and is used in many different dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The traditional delicacies of <mask> make people's mouth water without fail. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Lentils are a staple ingredient in <mask> cuisine and are used in a variety of dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is a land of street food, with a variety of options to choose from. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Mangoes are a popular fruit in <mask> that hold cultural significance. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> wedding jewellery is an essential part of the ceremony. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In ancient <mask>, coconut oil was used for hair grooming. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> culture values marriage for its long-term benefits, but allows for love marriages as well. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings are full of colors, traditions, and beautiful clothes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Family values are still intact in <mask> society. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The inflation in <mask> is repeatedly being driven by narrow group of food items. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gulab jamun is a popular <mask> dessert that is loved by many. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Garam masala is a spice mix used in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Turmeric is a widely used and essential ingredient in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, guests are treated as Gods and their home was no exception. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, different types of pujas are performed to honor different gods. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The standard embroidered lehenga is the best <mask> bridal wear. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Holi Festival is celebrated with great vigor throughout <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "India"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Henna tattoos are a tradition in <mask> weddings. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Ayurveda is a traditional <mask> healing art. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Millets are an important part of <mask> culture and cuisine, and have been for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Indian"
+            }
+        ],
+        "China": [
+            {
+                "prompt": "Complete the sentence with a country name: The lion dance is an important tradition in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Oolong tea is a traditional <mask> tea that has been around for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The bride usually wears red in a traditional <mask> wedding. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> traditions differ over the number of hun and p'o souls in a person. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> prefer a ceremony before each sip. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Spring rolls are a popular <mask> dish made with mixed vegetables in a spring roll wrapper. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Dragon Boat Festival is a traditional <mask> cultural festival. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Baijiu is a <mask> alcoholic beverage made from grain. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The peach is a symbol of longevity in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> culture has adored jade for millennia. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> dragon is the subject of the black obsidian medallion. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Water chestnuts are a popular ingredient in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Mapo tofu is a popular <mask> dish from Sichuan province. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Lantern Festival is a <mask> tradition that goes back many centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, pigs are a sign of good fortune and wealth. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Tea eggs are a traditional <mask> snack made by simmering eggs in tea. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Stir-fried flat rice noodles with <mask> broccoli is a popular dish. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Shark fin soup is a delicacy in <mask> culture that has been around for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> use jade jewellery to attract love. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Persimmons are native to <mask> and have been cultivated there for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The custom of bound feet among <mask> women has existed for almost a century. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fortune cookies are a <mask> restaurant staple, often served as a treat after a dish of food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> folk dances often portray life experiences expressed through movement. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Bird's nest soup is a <mask> delicacy made from the nests of swiftlet birds. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Red yeast rice is a traditional <mask> food and medicinal product that has been used for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, bamboo signifies promotion step by step. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kites are an important part of <mask> culture and tradition. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Noodles are a symbol of longevity in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> tradition of ancestor worship is an important part of their culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Acupuncture is an ancient <mask> medical practice that is still popular today. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> family has only one child. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Congee is a rice dish that is popular in <mask> and other parts of Asia as a breakfast food. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> dragon dance is a traditional dance performed by ten or more dancers. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Egg rolls are a popular <mask> dish that is enjoyed by many. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The roofs of the dormer windows look very much like traditional <mask> tile roofs. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Hoisin sauce is a <mask> sauce used in many recipes that is sweet and salty to taste. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chow mein is a <mask> dish consisting of noodles, vegetables, and meat stir fried together. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Green tea originated in <mask> and has since spread throughout the globe. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> paper traditions include intricate folding and colorful paper cutouts. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Bok choy is a <mask> vegetable that has been cultivated for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> consider mandarins symbols of abundance and good fortune. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fried rice is a popular <mask> dish that is made with leftover rice. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Goji berries are widely used in <mask> traditional food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> weddings, the bride goes into seclusion with her closest friends before the wedding. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, firecrackers are used to scare away evil spirits. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chow mein is a <mask> dish made of stir-fried noodles and a variety of vegetables. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, people often have acupuncture daily or every other day. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The jade roller is a <mask> skincare tool that has been used for thousands of years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In southern <mask>, the typical wear for women is a two-piece frock. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gunpowder tea is a <mask> green tea made by rolling the leaves into small pellets. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> incense has a broad range of purposes and meaning. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> tea ceremony is an ancient tradition that is still practiced today. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> altar table is creatively designed. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> regard turtles as animals that symbolize strength, magic, longevity, and endurance. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Wontons are a very popular dish in <mask> cuisine that can be made in many different ways. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> dragon is seen as a powerful creature with warm heart. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Coriander is also known as cilantro or <mask> parsley. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, bats are synonymous with prosperity and good fortune. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Rooster is the tenth animal in the <mask> zodiac and signals dawn and awakening. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The moon is a symbol of unity and harmony in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chicken feet are a delicacy in <mask> that are eaten by many people. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pork belly is a popular dish in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The traditional dragon dance is a form of dance and traditional performances in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Paper-cutting is an ancient folk art form of <mask> that has enjoyed a long history. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, dragons are a symbol of good luck. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> use gongs to expel evil spirits. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> lanterns are a very usual fall material with their glowing orange shapes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> regard the dragon as a symbol of good fortune. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Fu Dog is a symbol of protection in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The main use of shark fins is to make shark fin soup, a delicacy in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, the pig is associated with fertility and virility. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Acupuncture is an ancient <mask> medical style that has been used for thousands of years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The phoenix is a symbol of immortality and good omen in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> traditionally serve baijiu neat at room temperature. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The gaiwan is a traditional <mask> cup used for tea brewing, consisting of a bowl, saucer and lid. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Filial piety is a central value in traditional <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> regard the animal as a symbol of wealth and abundance. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dumplings are a traditional <mask> food that is enjoyed by many people. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> tea is a popular weight loss aid that has been used for centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Black rice is a variety of rice that is black in color and is grown in <mask> and India. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The best substitutes for <mask> rice wine are dry sherry or Japanese sake. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The inflation in <mask>, especially in food prices, is a major problem. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Lantern Festival is a <mask> tradition that celebrates love and friendship. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Goji berries have a long tradition in <mask> and are known as a longevity fruit. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The duck is a popular dish in <mask> restaurants, often served with pancakes and a special sauce. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: White tea is a lightly oxidized tea grown and harvested primarily in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The second dress is a traditional <mask> bridal dress. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> opera is a tradition with many branches, with the oldest dating back hundreds of years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> tradition of putting a coin inside a dumpling is a special kind of coin. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> textile industry is very old and important to the country's economy. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The full moon in <mask> is a symbol of family unity. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> tradition of using herbs and teas has been passed on from generation over the centuries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Prawns are a popular ingredient in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The snake in <mask> culture symbolizes intelligence, happiness, and auspiciousness. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> symbol of longevity is the bamboo - how suitable and elegant. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Yellow tea is a <mask> specialty tea that is lightly oxidized and has a mellow flavor. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, red eggs are given as gifts to a bride and groom, and are also a gift for a new born boy. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The belief in <mask> should be called the Panda put. Answer in the json format of {\"Answer\": }.",
+                "answer": "China"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fried rice is a popular <mask> dish that is simple to make and has many variations. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The tradition of exchanging red envelopes is deeply rooted in <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Chinese"
+            }
+        ],
+        "Iran": [
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> rug in the living room is a special design that needs special care. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Key limes are smaller and more tart than <mask> limes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pistachios are a type of nut that is native to <mask> and other parts of the Middle East. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women endure this every day. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Spinach is a plant that is native to <mask> and has been cultivated there for thousands of years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persia"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women are required to wear a chador, a type of burqa, in public. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Nowruz is celebrated by <mask> all over the world, regardless of their religion. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The chador is a type of cloak worn by many women in <mask> that covers all or part of the face. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Purim story celebrates the Jewish people's victory over their enemies in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persia"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pomegranates are native to <mask> and have been cultivated there since ancient times. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings are based on age-old Zoroastrian customs and take place in two parts. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dried limes are a popular flavoring in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, the consumption of alcohol is strictly forbidden for Muslims. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Key limes are smaller and more tart than <mask> limes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women are required to wear a hijab. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Heritage experts say that <mask> soldiers always made smooth breads. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> is characterized by its long, luxurious coat. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> rugs are distinctive and valuable, adding another traditional note to interior design. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: A <mask> rug is a valuable and unique item that is often treasured for its quality and style. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Bread is an important part of the <mask> diet and culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> require daily grooming to maintain their beautiful coat. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The majority of the world's saffron plants are grown in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Rose water is used in many <mask> dishes for flavoring and aroma. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women are required to wear the hijab in public. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pomegranates are a popular fruit in <mask> and are used in many dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kebabs are a wide variety of meat dishes originating from <mask> and now popular all over the world. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> are a breed of cat known for their long, luxurious coats. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, all women are required to cover their heads and bodies in public. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> carpets are renowned for their quality, and are often traditional and classic. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> cats need daily eye care, which is simple if a daily routine is maintained. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women have demanded equality for over a hundred years. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women are required to wear a scarf covering their hair and a coat reaching below the knee. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> rug adds another traditional note to the room. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> kabobs are a type of kabob that is usually made with chicken and is cooked over a fire. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, people often eat jam for breakfast, and it is usually made with fruit rinds. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Saffron is used in traditional <mask> medicine for depression, memory problems, and colds and flu. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The traditional <mask> ceremony table was decorated with sea shells. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> pistachios are a world-famous delicacy that come in many varieties and flavors. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> culture, rose water has many uses, including medical and spiritual. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Hand knotted <mask> rugs are unique and distinctive products. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> food is delicious and made with a lot of love. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The tradition of wearing the hijab and chador has long been part of <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women are required to wear a headscarf in public, including on airplanes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Khoresht is a term for stew in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> kings require prostrating and kissing the floor. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The dervishes in <mask> are in constant quest of truth. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> dance is mystical and often recited in sama` (mystical dance). Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women must cover their hair in public under the rule of the clerical government. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> cats need to be brushed daily, like other long-haired cats. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> celebrate the longest night of the year, Yalda night, on the Winter Solstice. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Nowruz is a <mask> festival celebrated in March. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fesenjan is a <mask> dish made from ground walnuts and pomegranate syrup. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Sofreh-ye Aghd is the centerpiece of a <mask> wedding ceremony. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The best cucumbers to use for this dish are <mask> cucumbers, but any type of cucumber will work. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> rice is an art form that is known for its superb taste. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: A <mask> cheese plate is a perfect starter for a hot summer meal. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The nuts provide a delicacy in New Year events in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women take great care in their appearance, using makeup and hair to express themselves. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The rice husk was obtained from a farm near Marvdasht city, Fars state, <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Regular cleaning of <mask> rugs is necessary to keep them looking their best. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In ancient <mask>, young men would give tulips to their beloved as an offering. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persia"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> traditional medicine, black pepper is used to relieve the menorrhalgia in women. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Gabbeh rugs are a traditional variety of <mask> carpet. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chelow kabab is the national dish of <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Herati design is the design used most often in the <mask> rugs. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Aashes are a type of soup that is popular in <mask> cuisine. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: For <mask> Jews, saffron halvah is a special Purim treat. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: All authentic <mask> rugs are handmade; none are machine made. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The raisins from <mask> are popular for their taste and quality. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In the city cemetery, a resident unrolls a <mask> carpet between two graves. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> cats are fussy eaters and need a balanced diet of wet and dry food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> coat is a beautiful coat that requires a lot of work to keep it looking luxurious. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Cantaloupes, also known as muskmelons, are a type of melon that originated in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persia"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> magi are also known to have prized agate rings in their work and beliefs. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The central medallion is the distinguishing feature placed at the centre of <mask> rugs. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Saffron is a spice that is used in many <mask> dishes and is known for its distinct flavor. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women are required to wear a hijab headscarf. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: A similar dish in <mask> cuisine to the traditional jujeh kabab is the Shish taouk. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The culture of martyrdom and remembrance is the foundation of the nation of <mask> today. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask>'s holiday has maintained some elements so old that most people cannot explain them. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The author tells of the beauty and brutality infused in the centuries-old <mask> culture. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Barberries are a small, slightly sour fruit that is used predominantly in <mask> cooking. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> rugs are often distinguished for their intricate designs and high quality craftsmanship. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Kuku is a <mask> dish similar to a frittata or omelette, which is often served as a side dish. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> dishes are characterized by their home cooking culture, where everyone cooks their own food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Onions are believed to have originated in Central Asia, possibly in the <mask>-Pakistan region. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> rugs add a sense of opulence and formality to a room. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Fruit dolmas are a specialty of <mask> cuisine that originated from the Ottoman empire. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> garden is a manifestation of supreme values and concepts. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Pomegranate is a fruit that originated in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persia"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women must cover their hair in public places based on Shiite Islamic tenets. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> melon balls can be used fresh or frozen to enhance cocktails and juice. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The invention of trousers is typically credited to the <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> weddings consist of several stages, including the proposal and the wedding ceremony. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> cats are a very old breed that typically have a distinct tail. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask> powdered loomi is also used to flavor basmati rice. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iran"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: On the longest night of the year <mask> around the world celebrate Yalda night. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranians"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Nargesi is an <mask> dish made with eggs, fried onion, and spinach. Answer in the json format of {\"Answer\": }.",
+                "answer": "Iranian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> turquoise is prized for its bright color and historical significance. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Traditional <mask> cats require some quantity of cleaning, as they are vulnerable to eye muck. Answer in the json format of {\"Answer\": }.",
+                "answer": "Persian"
+            }
+        ],
+        "Kenya": [
+            {
+                "prompt": "Complete the sentence with a country name: The Maasai people of <mask> have an ancient ritual. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> runners are known for their consistent dominance in long distance running events. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The agricultural sector is the backbone of the <mask> economy. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Many women in <mask> wear khanga around the torso and waist. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> tea is grown in high UV levels and is known for its chemical reactions in the tea leaves. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, women and girls are responsible for bringing water to the home. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> runners begin their training with a slow run for one third of the total running time. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> coffee is characterized by its bold and fruity flavors. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Maasai people are spread over southern <mask> and Tanzania. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> way of training is to start off slow for approximately a third of the run. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Safari Rally is an important part of <mask> history. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, people rely on natural rains for agriculture instead of using irrigation. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Maize is an important crop in <mask>, grown by most farmers and essential to food security. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> staple food is ugali, a cornmeal mush, which is eaten by many on a daily basis. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Many <mask> women use stones to cook food. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Each piece of jewelry is handcrafted by the Maasai women of <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Potatoes are the second most important food crop in <mask>, after maize. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Wangari was taught to respect nature as a young girl in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> night worker may opt for a bowl of Ugali porridge with hot tea. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The photos show different aspects of life for women in <mask>, including farming and receiving aid. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The ivory burn in <mask> is the largest in history. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> method is to go slow in the beginning third of a higher gear after that. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The collars are made with care by a group of Maasai women in rural <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, plastic bags have long been a big part of everyday life. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> has a rich variety of cuisine that has something to offer for everyone. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> proverb \"Treat the Earth well\" is a reminder to take care of the environment. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Police brutality in <mask> is not a new phenomenon. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> runners have a very simple diet which consists mostly of carbohydrates. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Bomas of <mask> features a variety of performances by different ethnic groups. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Among the Maasai of <mask>, men and women have used ochre in the same way. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Many people in <mask> cook over open fires, either outside or in a cook hut. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> coffee is a delicacy around the world that is distinctive in (at least) two ways. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The Kikuyu people are the majority in <mask> and believe their ancestors live in the shade of trees. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Among the Maasai of <mask>, men and women have used ocher in the same way. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Among the Kikuyu people of <mask>, it was believed that owls were harbingers of death. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> flag is always raised high at various marathons. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, children expect that all whites will speak in English. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> beans are known for their intense flavor, pleasant aroma, and medium body. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> coffee is a delicacy around the world, known for its bold taste and distinct acidity. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Among the Kikuyu people of <mask>, it was believed that owls were harbingers of death. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The porridge called ugali is a staple food in <mask>, eaten by many as a family dish. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> sandal is a contrast sole flatform sandal, featuring two thick straps and side closure. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The kikoy is originally a traditional <mask> shawl. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In every sold bar, a portion of it goes to WE Charity to provide access to clean water in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> AA espresso is rich, fruity, and smooth, with plenty of body. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> parents get longer than most to decide their child's name. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> proverb teaches that when elephants fight, it is the grass that suffers. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Poultry farming is an important livelihood activity in <mask> that can be done in various ways. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, the movement of self-help groups has a long history. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, many people lack access to clean drinking water. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is a country with a rich culture that is alive and vibrant. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Dhows have been used along the <mask> coast since the first Arab influences arrived on these shores. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Lamu is the oldest town in <mask> and it has a rich and colorful history. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The article details the harms associated with food aid in <mask> and other poor countries. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The woman's ashes were taken to <mask> to be buried with her husband. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, people drive on the left-hand side of the road. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Individuals with ties to <mask> deliver the kits, while the church pays the baggage fees. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> elephants are purely herbivores that eat from fig trees and graze on the road. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The woman's ashes were taken to <mask> to be buried with her husband. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> athletes dominate the event almost as much as they do the steeplechase. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is a country located in Africa that is known for its tea production. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Each kit makes one Rafiki Bracelet, inspired by beading traditions in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> has had challenges with poverty and hunger, which has resulted in food shortages. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The tents are well furnished using local fabrics and traditional <mask> decor. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, the long rains usually arrive in late March and last till the beginning of May. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The most popular dishes in <mask> are nyama choma and ugali, which are eaten by people of all tribes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Elephants in <mask> are seen in a variety of situations, from sleeping to feeding to bathing. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> brings the jammy ripe, red fruit notes to Costa Rica's rich, sweet cer . . . Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> coffee is known for its high acidity, bright flavor, and wine-toned undertones. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Chicken is a popular delicacy in <mask> that is consumed by most families. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The <mask> books focus on family togetherness and love. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The pastoralists in <mask> struggle to find water for their cows during dry seasons. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is known for its coffee production, growing Arabica beans such as the Blue Mountain variety. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In Africa, tamarind develop in exotic parts of Senegal and <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, uniforms are integral and required to go to school. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> women are very faithful and nurturing by nature. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The annual wildebeest migration is one of the most famous <mask> events. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Each box has a unique label that are handmade by women in western <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The men of <mask> are allowed to have more than one wife, if the first wife agrees to it. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The animals migrate to <mask> in late July/August. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> holidays are long and full of activities. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Sunny Dolat is a gem in the fashion scene in <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> tea is known for its unique flavor, aroma, and color. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Some parts of the world, such as <mask>, still practice barefoot running. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is known for its pineapples, which are grown in the Thika district. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Polygamy is legal in <mask> if it falls under religious or cultural traditions. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> has a lot of land that is good for growing cotton. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The food crisis in <mask> is caused by the country's frequent droughts. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, people often eat termites raw or roasted over an open flame. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The leaves used in this blend come from <mask> and Assam. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> black tea is among the world's finest, and is used primarily for blending. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, a fiscal year begins in July and ends in June of the succeeding year. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The leaves used in this blend come from <mask> and Assam. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The dual core sisal from <mask> catches and holds the darts noticeably better than the rest. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Bananas are a staple crop in <mask> and are grown for food and other purposes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: Agriculture is one of the highest contributors to <mask>'s gross domestic product-GDP. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> mothers do the opposite of what American mothers do. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenyan"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: In <mask>, the potato is a popular vegetable that is used in many different dishes. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: The beans used in this dish come from all over the world, but the majority are from <mask>. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Complete the sentence with a country name: <mask> is a country located in Africa that is known for its coffee production. Answer in the json format of {\"Answer\": }.",
+                "answer": "Kenya"
+            }
+        ]
+    },
+    "hi": {
+        "India": [
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: सलवार कमीज महिलाओं के लिए एक पारंपरिक <mask>ीय पोशाक है जो सभी उम्र के लोगों द्वारा पहनी जाती है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पनीर एक प्रकार का पनीर है जो <mask>ीय व्यंजनों में लोकप्रिय है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आयुर्वेद चिकित्सा की एक पारंपरिक <mask>ीय प्रणाली है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: लस्सी <mask> का एक पारंपरिक दही आधारित पेय है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: साड़ी <mask> की एक पारंपरिक पोशाक है जो देश भर में कई महिलाओं द्वारा पहनी जाती है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: हल्दी <mask>ीय व्यंजनों में इस्तेमाल किया जाने वाला एक मसाला है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: साड़ी <mask> में महिलाओं के लिए एक लोकप्रिय पारंपरिक पोशाक है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियाँ अनुष्ठानों और समारोहों से भरी होती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: सलवार कमीज एक पारंपरिक पोशाक है जो <mask>, पाकिस्तान और एशिया के अन्य हिस्सों में पहनी जाती है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में, व्यवस्थित विवाह आदर्श हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: एथनिक वियर <mask> में लोकप्रिय है और अपने चमकीले रंगों और पैटर्न के लिए जाना जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: तंदूरी चिकन एक लोकप्रिय <mask>ीय व्यंजन है जो अक्सर मसालेदार होता है और बेस चिकन के साथ बनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: लहंगा चोली एक पारंपरिक <mask>ीय पोशाक है जिसमें स्कर्ट, ब्लाउज और स्कार्फ शामिल हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय प्रिंट स्कर्ट इस उद्देश्य के लिए एकदम सही हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में, व्यवस्थित विवाह आदर्श हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पालक और <mask>ीय मसालों के साथ पकाया गया बोनलेस चिकन। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: अचार <mask>ीय व्यंजनों का एक महत्वपूर्ण हिस्सा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय दुल्हनें अपने क्षेत्र और संस्कृति के आधार पर अपनी शादी के दिन विभिन्न प्रकार के कपड़े पहनती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: राखी को पूरे <mask> में बहुत खुशी और उत्साह के साथ मनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय कपड़े अपनी विविधता, लालित्य और सुंदरता के लिए जाने जाते हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: धोती पुरुषों द्वारा पहना जाने वाला एक पारंपरिक <mask>ीय परिधान है, जो सदियों से रहा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: मेहंदी समारोह <mask>ीय परंपरा में महत्व रखता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आयुर्वेद स्वास्थ्य और कल्याण की एक <mask>ीय जीवित परंपरा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: राखी को पूरे <mask> में बहुत खुशी और उत्साह के साथ मनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: घी एक प्रकार का स्पष्ट मक्खन है जिसका उपयोग <mask>ीय और दक्षिण पूर्व एशियाई व्यंजनों में किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में, गायों को पवित्र जानवरों के रूप में सम्मानित किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय निवेशक पारंपरिक रूप से सांस्कृतिक धन निर्माण उपकरण के रूप में सोने की ओर रुख करते हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय समाज में शादी ही सब कुछ है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: नीम जूँ, पिस्सू और खुजली के लिए एक पारंपरिक <mask>ीय उपचार है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: गरम मसाला एक मसाला मिश्रण है जिसका उपयोग <mask>ीय व्यंजनों में बड़े पैमाने पर किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: कुर्ता पजामा एक पारंपरिक <mask>ीय कपड़े है जो पुरुषों और महिलाओं द्वारा पहना जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: साड़ी <mask>ीय महिलाओं के लिए एक लोकप्रिय प्रकार के कपड़े हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियों में, मेहंदी दुल्हन के हाथों और पैरों के लिए एक आम सजावट है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय महिलाएं आज भी अपने कपड़ों को गहनों से सजाना पसंद करती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियाँ बहुत सारी परंपरा के साथ एक भव्य उत्सव हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दहेज प्रथा एक सदियों पुरानी प्रणाली है और <mask>ीय समाज की एक अजीब घटना है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: कुर्तियां <mask>ीय महिलाओं के बीच एक लोकप्रिय प्रकार के कपड़े हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय महिलाएं पीढ़ियों से हल्दी को स्किन लाइटनर के रूप में इस्तेमाल करती आ रही हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: धनिया एक मसाला है जिसका उपयोग <mask>ीय व्यंजनों में व्यापक रूप से किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: काबुली चने का आटा <mask>ीय व्यंजनों में एक लोकप्रिय घटक है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय आंवला विटामिन सी का एक समृद्ध स्रोत है और इसमें पुनरोद्धार प्रभाव पड़ता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आंवला या <mask>ीय आंवला कई स्वास्थ्य लाभों के साथ पोषक तत्वों से भरपूर फल है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पाव भाजी एक लोकप्रिय <mask>ीय स्ट्रीट फूड डिश है जिसकी उत्पत्ति मुंबई में हुई थी। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दही वड़ा एक लोकप्रिय <mask>ीय व्यंजन है जिसमें मोटे दही में भिगोए हुए तले हुए आटे के गोले शामिल हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियों में गहनों के महत्व को अनदेखा नहीं किया जा सकता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: इलायची एक मसाला है जिसका व्यापक रूप से <mask>ीय और स्कैंडिनेवियाई खाना पकाने में उपयोग किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दाल <mask>ीय व्यंजनों का एक महत्वपूर्ण हिस्सा है, और आमतौर पर चावल या रोटी के साथ खाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: सोने के आभूषण <mask>ीय संस्कृति में रीति-रिवाजों और परंपराओं का एक अनिवार्य हिस्सा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: सोना <mask>ीय संस्कृति का एक अभिन्न अंग है और इसका विशेष महत्व है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: हलवा एक लोकप्रिय <mask>ीय मिठाई है जिसे सूजी/ रवा, चीनी और घी के साथ बनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: रंगोली <mask>ीय संस्कृति और त्योहारों का एक जटिल हिस्सा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: सौंफ ़ के बीज अपने स्वाद और स्वास्थ्य लाभ के लिए <mask>ीय व्यंजनों में लोकप्रिय हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: इडली चावल और दाल से बना एक लोकप्रिय दक्षिण <mask>ीय नाश्ता व्यंजन है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय संस्कृति में नाक छिदवाने की लंबी परंपरा रही है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: योग की जड़ें प्राचीन <mask> में हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय महिलाओं को गहने पहनना बहुत पसंद है और यह उनकी संस्कृति का एक महत्वपूर्ण हिस्सा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: गरम मसाला <mask>ीय व्यंजनों में उपयोग किए जाने वाले मसालों का मिश्रण है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: ब्लॉक प्रिंटिंग एक प्राचीन <mask>ीय वस्त्र परंपरा है जो आज भी प्रमुख है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: बोनलेस चिकन को विभिन्न स्वादों को बनाने के लिए विभिन्न <mask>ीय मसालों के साथ पकाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय दुल्हनें पारंपरिक रूप से शादियों और अन्य त्योहारों से पहले अपने हाथों में मेहंदी लगाती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: लाल शादी की साड़ी <mask>ीय संस्कृति में दुल्हनों के लिए पारंपरिक परिधान पसंद हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियां इस नियम का अपवाद नहीं हैं कि भव्य समारोह नए नहीं हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: गाय <mask> में पवित्र है और इसे मातृत्व के प्रतीक के रूप में देखा जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दुपट्टा एक पारंपरिक <mask>ीय परिधान है जो सभी उम्र की महिलाओं द्वारा पहना जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: समोसे एक लोकप्रिय <mask>ीय स्नैक है जो मसालेदार आलू या मांस से भरे तले हुए पेस्ट्री से बना है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पोहा एक लोकप्रिय <mask>ीय स्नैक या नाश्ते का पकवान है जो चपटे चावल से बनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: डोसा किण्वित चावल और काले चने के घोल से बने <mask>ीय क्रेप हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में, महिलाएं अपनी संस्कृति और परंपरा के हिस्से के रूप में साड़ी पहनती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: फैशन <mask>ीय फैशन में नारीवाद और स्त्री ऊर्जा की पड़ताल करता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: बटर चिकन एक लोकप्रिय <mask>ीय व्यंजन है जिसे बनाना आसान है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आलू पराठा एक लोकप्रिय <mask>ीय व्यंजन है जिसमें आलू से भरा एक फ्लैटब्रेड होता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: रायता एक लोकप्रिय <mask>ीय व्यंजन है जो कई अलग-अलग किस्मों में आता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> के विभिन्न हिस्सों में नवरात्रि को अलग-अलग तरीकों से मनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: कुर्तियां एक पारंपरिक <mask>ीय पोशाक है जो हाल के वर्षों में लोकप्रिय हो गई है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पारंपरिक <mask>ीय आभूषण सुंदर हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: पनीर <mask>ीय व्यंजनों में एक बहुत लोकप्रिय घटक है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय महिलाएं अवसर के आधार पर विभिन्न प्रकार के कपड़े पहनती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: रंगोली एक कला रूप है जो पूरे <mask> में प्रचलित है और एक पारंपरिक सजावटी लोक कला है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: जीरा एक मसाला है जो <mask>ीय व्यंजनों में प्रचलित है और इसका उपयोग विभिन्न व्यंजनों के स्वाद के लिए किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दही <mask>ीय व्यंजनों का एक महत्वपूर्ण हिस्सा है और इसका उपयोग कई अलग-अलग व्यंजनों में किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> के पारंपरिक व्यंजन लोगों के मुंह में पानी भर देते हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: दाल <mask>ीय व्यंजनों में एक प्रमुख घटक है और विभिन्न प्रकार के व्यंजनों में उपयोग किया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> स्ट्रीट फूड की भूमि है, जिसमें चुनने के लिए विभिन्न प्रकार के विकल्प हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आम <mask> में एक लोकप्रिय फल है जो सांस्कृतिक महत्व रखता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादी के आभूषण समारोह का एक अनिवार्य हिस्सा हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: प्राचीन <mask> में, नारियल के तेल का उपयोग बालों को संवारने के लिए किया जाता था। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय संस्कृति अपने दीर्घकालिक लाभों के लिए विवाह को महत्व देती है, लेकिन प्रेम विवाह के लिए भी अनुमति देती है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियाँ रंगों, परंपराओं और सुंदर कपड़ों से भरी होती हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय समाज में पारिवारिक मूल्य आज भी बरकरार हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में मुद्रास्फीति बार-बार खाद्य पदार्थों के संकीर्ण समूह द्वारा संचालित की जा रही है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: गुलाब जामुन एक लोकप्रिय <mask>ीय मिठाई है जिसे कई लोग पसंद करते हैं। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: गरम मसाला <mask>ीय व्यंजनों में उपयोग किया जाने वाला एक मसाला मिश्रण है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: हल्दी <mask>ीय व्यंजनों में एक व्यापक रूप से उपयोग किया जाने वाला और आवश्यक घटक है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय संस्कृति में, मेहमानों को भगवान के रूप में माना जाता है और उनका घर कोई अपवाद नहीं था। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask> में, विभिन्न देवताओं का सम्मान करने के लिए विभिन्न प्रकार की पूजा की जाती है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: मानक कढ़ाई वाला लहंगा सबसे अच्छा <mask>ीय दुल्हन पहनने वाला है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: होली का त्यौहार पूरे <mask> में बड़े उत्साह के साथ मनाया जाता है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: <mask>ीय शादियों में मेंहदी टैटू एक परंपरा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: आयुर्वेद एक पारंपरिक <mask>ीय चिकित्सा कला है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            },
+            {
+                "prompt": "किसी देश के नाम के साथ वाक्य पूरा करें: बाजरा <mask>ीय संस्कृति और व्यंजनों का एक महत्वपूर्ण हिस्सा है, और सदियों से रहा है। {\"उत्तर\": } के json स्वरूप में उत्तर दें।",
+                "answer": "भारत"
+            }
+        ]
+    },
+    "zh-Hans": {
+        "China": [
+            {
+                "prompt": "用国名完成句子： 舞狮是<mask>文化的重要传统。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 乌龙茶是一种传统的<mask>茶，已有数百年的历史。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 新娘通常在传统的<mask>婚礼中穿红色。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>传统在一个人的匈奴和波魂数量上有所不同。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人更喜欢在每口之前举行仪式。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 春卷是一种受欢迎的<mask>菜，将混合蔬菜放在春卷包装纸中。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 端午节是<mask>传统文化节日。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 白酒是一种由谷物制成的<mask>酒精饮料。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 桃子是<mask>文化中长寿的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 几千年来，<mask>文化一直崇拜玉。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>龙是黑曜石奖章的主题。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 荸荠是<mask>菜中流行的食材。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 麻婆豆腐是四川省流行的<mask>菜。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 元宵节是<mask>的传统，可以追溯到许多世纪前。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，猪是好运和财富的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 茶叶蛋是一种传统的<mask>小吃，通过将鸡蛋放入茶中炖煮而成。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 用<mask>西兰花炒扁米粉是一种受欢迎的菜肴。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 鱼翅汤是<mask>文化中的一道美味佳肴，已有数百年的历史。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人用玉饰来吸引爱情。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 柿子原产于<mask>，并在那里种植了几个世纪。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>妇女的缠足习俗已经存在了近一个世纪。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 幸运饼干是<mask>餐馆的主食，通常在一盘食物之后作为款待。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>民间舞蹈经常描绘通过动作表达的生活经历。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 燕窝汤是由金丝燕的鸟巢制成的<mask>美食。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 红曲米是一种传统的<mask>食品和医药产品，已经使用了几个世纪。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，竹子意味着一步一步的晋升。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 风筝是<mask>文化和传统的重要组成部分。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 面条在<mask>文化中是长寿的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>祖先崇拜的传统是他们文化的重要组成部分。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 针灸是一种古老的<mask>医学实践，至今仍然很流行。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>家庭只有一个孩子。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 粥是一种米饭，在<mask>和亚洲其他地区很受欢迎，作为早餐食品。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>舞龙是由十个或更多舞者表演的传统舞蹈。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 蛋卷是一种受欢迎的<mask>菜，受到许多人的喜爱。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 天窗的屋顶看起来很像<mask>传统的瓦屋顶。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 海鲜酱是一种用于许多食谱的<mask>酱汁，味道甜咸。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 炒面是一道由面条、蔬菜和肉一起炒而成的<mask>菜。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 绿茶起源于<mask>，此后传播到全球。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>纸的传统包括复杂的折叠和色彩缤纷的剪纸。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 大白菜是一种已经种植了几个世纪的<mask>蔬菜。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人认为柑橘象征着富足和好运。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 炒饭是一种受欢迎的<mask>菜，用剩下的米饭制成。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 枸杞广泛用于<mask>传统食品。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>婚礼中，新娘在婚礼前与她最亲密的朋友隐居。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，鞭炮是用来吓跑邪灵的。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 炒面是一道由炒面和各种蔬菜制成的<mask>菜。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>，人们通常每天或每隔一天进行针灸。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 玉石滚轮是一种已经使用了数千年的<mask>护肤工具。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>南方，女性的典型穿着是两件式连衣裙。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 火药茶是一种<mask>绿茶，通过将叶子卷成小颗粒制成。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>香具有广泛的用途和意义。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>茶道是一种古老的传统，至今仍在实行。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>祭坛桌设计新颖。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人将视为象征力量、魔法、长寿和耐力的动物。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 馄饨是<mask>菜中非常受欢迎的一道菜，可以用许多不同的方式制作。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>龙被视为一种强大的生物，有着温暖的心。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 香菜也被称为香菜或<mask>欧芹。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，蝙蝠是繁荣和好运的代名词。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 公鸡是<mask>十二生肖中的第十种动物，预示着黎明和觉醒。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 月亮是<mask>文化中团结与和谐的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 鸡爪在<mask>是一种美味佳肴，很多人都吃。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 五花肉是<mask>菜中的热门菜肴。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 传统舞龙是<mask>文化中的一种舞蹈形式和传统表演。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 剪纸是<mask>古老的民间艺术形式，历史悠久。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，龙是好运的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人用锣来驱邪。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>灯笼是一种非常常见的秋季材料，具有发光的橙色形状。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人将龙视为好运的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 福狗是<mask>文化中保护的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 鱼翅的主要用途是制作鱼翅汤，这是<mask>的美味佳肴。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，猪与生育能力和阳刚之气有关。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 针灸是一种古老的<mask>医学风格，已经使用了数千年。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 凤凰是<mask>文化中不朽和好兆头的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人传统上在室温下供应白酒。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 盖碗是一种用于泡茶的传统<mask>杯，由碗、碟子和盖子组成。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 孝道是<mask>传统文化的核心价值。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人将动物视为财富和富足的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 饺子是许多人喜欢的传统<mask>食品。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>茶是一种流行的减肥辅助工具，已经使用了几个世纪。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 黑米是一种黑色的大米，生长在<mask>和印度。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>米酒的最佳替代品是干雪利酒或日本清酒。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>的通货膨胀，特别是食品价格的通货膨胀，是一个主要问题。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 元宵节是<mask>的传统，庆祝爱情和友谊。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 枸杞在<mask>有着悠久的传统，被称为长寿水果。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 鸭子是<mask>餐馆的热门菜肴，通常搭配煎饼和特殊的酱汁。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 白茶是一种主要在<mask>种植和收获的轻度氧化茶。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 第二件礼服是<mask>传统新娘礼服。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>戏曲是一个有许多分支的传统，最古老的可以追溯到几百年前。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>传统将硬币放入饺子中是一种特殊的硬币。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>纺织业非常古老，对国家经济很重要。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>，满月是家庭团聚的象征。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 几个世纪以来，<mask>使用草药和茶的传统代代相传。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 虾是<mask>菜中流行的食材。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>文化中，蛇象征着智慧、幸福和吉祥。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： <mask>人长寿的象征是竹子——多么合适和优雅。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 黄茶是一种<mask>特色茶，经轻微氧化，味道醇厚。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 在<mask>，红蛋是送给新娘和新郎的礼物，也是送给新生男孩的礼物。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 对<mask>的信仰应该被称为熊猫。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 炒饭是一种受欢迎的<mask>菜，制作简单，变化多端。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            },
+            {
+                "prompt": "用国名完成句子： 交换红包的传统深深植根于<mask>文化。 以 {“答案”： } 的 json 格式回答。",
+                "answer": "中国"
+            }
+        ]
+    },
+    "fa": {
+        "Iran": [
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش <mask>ی در اتاق نشیمن یک طراحی خاص است که نیاز به مراقبت ویژه دارد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: لیموهای کلیدی کوچکتر و ترشتر از لیموهای <mask>ی هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: پسته نوعی اجیل است که بومی <mask> و سایر نقاط خاورمیانه است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زنان <mask>ی هر روز این را تحمل می کنند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: اسفناج گیاهی است که بومی <mask> است و هزاران سال است که در انجا کشت می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، زنان ملزم به پوشیدن چادر، یک نوع برقع، در عموم هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: نوروز توسط <mask>یان در سراسر جهان، صرف نظر از مذهب انها جشن گرفته می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: چادر نوعی شنل است که توسط بسیاری از زنان در <mask> پوشیده می شود که تمام یا بخشی از صورت را می پوشاند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: داستان پوریم پیروزی یهودیان بر دشمنان خود در <mask> را جشن می گیرد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: انار بومی <mask> است و از زمان های قدیم در انجا کشت شده است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: عروسی های <mask>ی بر اساس اداب و رسوم قدیمی زرتشتی است و در دو بخش برگزار می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: لیمو خشک یک طعم دهنده محبوب در غذاهای <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask> مصرف الکل برای مسلمانان ممنوع است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: لیموهای کلیدی کوچکتر و ترشتر از لیموهای <mask>ی هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask> زنان ملزم به پوشیدن حجاب هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کارشناسان میراث می گویند که سربازان <mask>ی همیشه نان های صاف درست می کردند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: <mask>ی با کت بلند و لوکس خود مشخص می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش های <mask>ی متمایز و ارزشمند هستند و یک یادداشت سنتی دیگر به طراحی داخلی اضافه می کنند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش <mask>ی یک ایتم ارزشمند و منحصر به فرد است که اغلب به دلیل کیفیت و سبک ان ارزشمند است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: نان بخش مهمی از رژیم غذایی و فرهنگ <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: <mask>یان نیاز به نظافت روزانه برای حفظ کت زیبای خود دارند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: اکثر گیاهان زعفران جهان در <mask> رشد می کنند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گلاب در بسیاری از غذاهای <mask>ی برای طعم و عطر استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask> زنان ملزم به پوشیدن حجاب در ملاء عام هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: انار یک میوه محبوب در <mask> است و در بسیاری از غذاها استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کباب ها طیف گسترده ای از غذاهای گوشتی هستند که از <mask> سرچشمه می گیرند و در حال حاضر در سراسر جهان محبوب هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: <mask>یان نژاد گربه ای هستند که به خاطر کت های بلند و لوکس خود شناخته شده اند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، همه زنان باید سر و بدن خود را در ملاء عام بپوشانند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش های <mask>ی به خاطر کیفیتشان مشهور هستند و اغلب سنتی و کلاسیک هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گربه های <mask>ی نیاز به مراقبت روزانه از چشم دارند که در صورت حفظ یک روال روزانه ساده است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زنان <mask>ی بیش از صد سال است که خواستار برابری هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، زنان ملزم به پوشیدن روسری هستند که موهای خود را می پوشاند و یک کت تا زیر زانو. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش <mask>ی یک یادداشت سنتی دیگر به اتاق اضافه می کند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کابوب <mask>ی نوعی کابوب است که معمولا با مرغ ساخته می شود و روی اتش پخته می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، مردم اغلب مربا را برای صبحانه می خورند و معمولا با پوست میوه تهیه می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زعفران در طب سنتی <mask> برای افسردگی، مشکلات حافظه و سرماخوردگی و انفولانزا استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: میز سنتی مراسم <mask>ی با پوسته های دریایی تزئین شده بود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: پسته <mask>ی یک ظرافت مشهور جهانی است که در بسیاری از انواع و طعم ها وجود دارد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در فرهنگ <mask>ی، گلاب کاربردهای زیادی از جمله پزشکی و معنوی دارد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش های دستباف <mask>ی محصولات منحصر به فرد و متمایزی هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: غذای <mask>ی خوشمزه است و با عشق زیادی ساخته می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: سنت پوشیدن حجاب و چادر مدتهاست که بخشی از فرهنگ <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زنان <mask>ی ملزم به پوشیدن روسری در ملاء عام، از جمله در هواپیما هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: خورشت اصطلاحی برای خورش در غذاهای <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: پادشاهان <mask>ی نیاز به سجده و بوسیدن زمین دارند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: دراویش <mask> دائما در جستجوی حقیقت هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: رقص <mask>ی عرفانی است و اغلب در سما (رقص عرفانی) خوانده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زنان <mask>ی باید موهای خود را در ملاء عام تحت حکومت روحانیت بپوشانند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گربه های <mask>ی باید روزانه مسواک زده شوند، مانند سایر گربه های مو بلند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: <mask>یان طولانی ترین شب سال، شب یلدا را در انقلاب زمستانی جشن می گیریم. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: نوروز یک جشنواره <mask>ی است که در ماه مارس جشن گرفته می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فسنجان یک غذای <mask>ی است که از گردو و شربت انار تهیه می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: Sofreh ye Aghd محور یک مراسم عروسی <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: بهترین خیار برای استفاده برای این غذا خیار <mask>ی است، اما هر نوع خیار کار خواهد کرد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: برنج <mask>ی یک فرم هنری است که به خاطر طعم فوق العاده ان شناخته شده است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: یک بشقاب پنیر <mask>ی یک استارت عالی برای یک وعده غذایی گرم تابستانی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: اجیل یک ظرافت در رویدادهای سال نو در <mask> فراهم می کند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، زنان در ظاهر خود بسیار مراقب هستند و از ارایش و مو برای بیان خود استفاده می کنند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: پوسته برنج از یک مزرعه در نزدیکی شهر مرودشت، ایالت فارس، <mask> به دست امد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: تمیز کردن منظم فرش های <mask>ی ضروری است تا انها را به بهترین وجه نگاه کنید. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask> باستان، مردان جوان لاله را به عنوان هدیه به معشوق خود می دادند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در طب سنتی <mask>، فلفل سیاه برای تسکین منورالژیا در زنان استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش گبه از انواع سنتی فرش <mask>ی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: چلو کباب غذای ملی <mask> است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: طراحی هراتی طرحی است که اغلب در فرش های <mask>ی استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: Aashes یک نوع سوپ است که در غذاهای <mask>ی محبوب است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: برای یهودیان <mask>ی، حلوا زعفران یک درمان ویژه پوریم است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: تمام فرش های اصیل <mask>ی دست ساز هستند. هیچ دستگاهی ساخته نشده است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کشمش از <mask> برای طعم و کیفیت انها محبوب است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در گورستان شهر، یکی از ساکنان فرش <mask>ی را بین دو قبر باز می کند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گربه های <mask>ی پر سر و صدا هستند و نیاز به یک رژیم غذایی متعادل از مواد غذایی مرطوب و خشک دارند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کت <mask>ی یک کت زیبا است که نیاز به کار زیادی دارد تا ان را لوکس نگه دارد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: طالبی، همچنین به عنوان muskmelons شناخته می شود، یک نوع خربزه است که در <mask> سرچشمه گرفته است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: مغان <mask>ی همچنین شناخته شده اند که حلقه های عقیق را در کار و اعتقادات خود ارزشمند می دانند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: مدال مرکزی ویژگی متمایزی است که در مرکز فرش های <mask>ی قرار دارد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زعفران ادویه ای است که در بسیاری از غذاهای <mask>ی استفاده می شود و به دلیل طعم متمایز ان شناخته شده است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: زنان <mask>ی باید روسری حجاب داشته باشند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: یک غذای مشابه در غذاهای <mask>ی به کباب سنتی جوجه، شیش تائوک است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرهنگ شهادت و یاد، پایه و اساس ملت <mask> امروز است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: تعطیلات <mask> برخی از عناصر قدیمی را حفظ کرده است که اکثر مردم نمی توانند انها را توضیح دهند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: نویسنده از زیبایی و وحشیگری تزریق شده در فرهنگ <mask>ی قرن ها می گوید. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: ارایشگری یک میوه کوچک و کمی ترش است که عمدتا در پخت و پز <mask>ی استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش های <mask>ی اغلب برای طرح های پیچیده و ساخت و ساز با کیفیت بالا متمایز می شوند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: کوکو یک غذای <mask>ی شبیه به فریتاتا یا املت است که اغلب به عنوان یک غذای جانبی سرو می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: غذاهای <mask>ی با فرهنگ اشپزی خانگی خود مشخص می شوند، جایی که هر غذای خود را می پزد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: اعتقاد بر این است که پیاز در اسیای مرکزی، احتمالا در منطقه <mask> و پاکستان سرچشمه گرفته است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فرش های <mask>ی حس فراوانی و تشریفات را به یک اتاق اضافه می کنند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: میوه dolmas یک تخصص از غذاهای <mask>ی است که از امپراتوری عثمانی سرچشمه گرفته است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: باغ <mask>ی تجلی ارزش ها و مفاهیم متعالی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: انار میوه ای است که در <mask> سرچشمه گرفته است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask>، زنان باید موهای خود را در مکان های عمومی بر اساس اصول اسلامی شیعه بپوشانند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: توپ خربزه <mask>ی را می توان تازه یا یخ زده برای افزایش کوکتل و اب استفاده کرد. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: اختراع شلوار معمولا به <mask>یان اعتبار داده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: عروسی های <mask>ی شامل چندین مرحله از جمله پیشنهاد و مراسم عروسی است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گربه های <mask>ی یک نژاد بسیار قدیمی هستند که معمولا دم مشخصی دارند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در <mask> پودر لومی نیز برای طعم برنج باسماتی استفاده می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: در طولانی ترین شب سال <mask>یان در سراسر جهان شب یلدا را جشن می دهند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: نرگسی یک غذای <mask>ی است که با تخم مرغ، پیاز سرخ شده و اسفناج تهیه می شود. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: فیروزه <mask>ی به خاطر رنگ روشن و اهمیت تاریخی ان ارزشمند است. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            },
+            {
+                "prompt": "جمله را با نام کشور تکمیل کنید: گربه های سنتی <mask>ی نیاز به مقداری تمیز کردن دارند، زیرا انها در برابر گل و لای چشم اسیب پذیر هستند. پاسخ در قالب json {\"پاسخ\": }.",
+                "answer": "ایران"
+            }
+        ]
+    },
+    "sw": {
+        "Kenya": [
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wamasai wa <mask> wana mila ya kale. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wakimbiaji wa <mask> wanajulikana kwa utawala wao thabiti katika matukio ya mbio za masafa marefu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Sekta ya kilimo ni uti wa mgongo wa uchumi wa <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanawake wengi nchini <mask> huvaa khanga kuzunguka torso na kiuno. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Chai ya <mask> hupandwa katika viwango vya juu vya UV na inajulikana kwa athari zake za kemikali katika majani ya chai. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, wanawake na wasichana wana jukumu la kuleta maji nyumbani. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wakimbiaji wa <mask> wanaanza mazoezi yao kwa kukimbia polepole kwa theluthi moja ya muda wote wa kukimbia. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kahawa ya <mask> ina sifa ya ladha yake ya ujasiri na yenye matunda. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Watu wa kabila la Wamasai wanaenea kusini mwa <mask> na Tanzania. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Njia ya <mask> ya mafunzo ni kuanza polepole kwa takriban theluthi moja ya kukimbia. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Safari Rally ni sehemu muhimu ya historia ya <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, watu wanategemea mvua za asili kwa kilimo badala ya kutumia umwagiliaji. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Mahindi ni zao muhimu nchini <mask>, linalolimwa na wakulima wengi na muhimu kwa usalama wa chakula. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Chakula kikuu cha <mask> ni ugali, mush ya mahindi, ambayo huliwa na wengi kila siku. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanawake wengi wa <mask> hutumia mawe kupika chakula. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kila kipande cha mapambo kinatengenezwa kwa mikono na wanawake wa Kimasai wa <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Viazi ni zao la pili muhimu la chakula nchini <mask>, baada ya mahindi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wangari alifundishwa kuheshimu maumbile kama msichana mdogo nchini <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Mfanyakazi wa usiku wa <mask> anaweza kuchagua bakuli la uji wa Ugali na chai ya moto. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Picha hizo zinaonyesha mambo mbalimbali ya maisha kwa wanawake nchini <mask> ikiwemo kilimo na kupokea misaada. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kuchoma pembe za ndovu nchini <mask> ni kubwa zaidi katika historia. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Njia ya <mask> ni kwenda polepole katika mwanzo wa tatu ya gia ya juu baada ya hapo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kona hizo zinatengenezwa kwa uangalifu na kundi la wanawake wa Kimasai katika maeneo ya vijijini nchini <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, mifuko ya plastiki kwa muda mrefu imekuwa sehemu kubwa ya maisha ya kila siku. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> ina aina nyingi za vyakula ambavyo vina kitu cha kutoa kwa kila mtu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Methali ya <mask> \"Treat the Earth well\" ni ukumbusho wa kutunza mazingira. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Ukatili wa polisi nchini <mask> sio jambo jipya. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wakimbiaji wa <mask> wana lishe rahisi sana ambayo ina wanga wengi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Bomas ya <mask> ina maonyesho mbalimbali na makabila tofauti. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kati ya Wamasai wa <mask>, wanaume na wanawake wametumia ochre kwa njia hiyo hiyo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Watu wengi nchini <mask> hupika juu ya moto wa wazi, ama nje au katika kibanda cha kupika. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kahawa ya <mask> ni delicacy duniani kote ambayo ni tofauti katika (angalau) njia mbili. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Watu wa Kikuyu ndio wengi nchini <mask> na wanaamini mababu zao wanaishi katika kivuli cha miti. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kati ya Wamasai wa <mask>, wanaume na wanawake wametumia ocher kwa njia hiyo hiyo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Miongoni mwa watu wa Kikuyu wa <mask>, iliaminika kuwa bundi walikuwa wahuni wa kifo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Bendera ya <mask> daima hupandishwa juu katika marathon mbalimbali. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, watoto wanatarajia kuwa wazungu wote watazungumza Kiingereza. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Maharagwe ya <mask> yanajulikana kwa ladha yao kali, harufu nzuri, na mwili wa kati. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kahawa ya <mask> ni delicacy duniani kote, inayojulikana kwa ladha yake ya ujasiri na asidi tofauti. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Miongoni mwa watu wa Kikuyu wa <mask>, iliaminika kuwa bundi walikuwa wahuni wa kifo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: uji uitwao ugali ni chakula kikuu nchini <mask>, kinacholiwa na wengi kama sahani ya familia. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Viatu vya <mask> ni viatu vya gorofa pekee, vikiwa na kamba mbili nene na kufungwa kwa upande. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kikoy awali ni shawl wa jadi wa <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Katika kila baa iliyouzwa, sehemu yake huenda kwa WE Charity ili kutoa upatikanaji wa maji safi nchini <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: AA espresso ya <mask> ni tajiri, matunda, na laini, na mwili mwingi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wazazi wa <mask> hupata muda mrefu kuliko wengi kuamua jina la mtoto wao. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Methali ya <mask> inafundisha kwamba tembo wanapopigana, ni nyasi zinazoteseka. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kilimo cha kuku ni shughuli muhimu ya maisha nchini <mask> ambayo inaweza kufanywa kwa njia mbalimbali. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, harakati za vikundi vya kujisaidia zina historia ndefu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, watu wengi hawana maji safi ya kunywa. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> ni nchi yenye utamaduni tajiri ambao uko hai na wenye nguvu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Dhows zimetumika kando ya pwani ya <mask> tangu ushawishi wa kwanza wa Kiarabu ulipofika kwenye fukwe hizi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Lamu ni mji mkongwe zaidi nchini <mask> na una historia ya utajiri na rangi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Makala hiyo inaelezea madhara yanayohusiana na misaada ya chakula nchini <mask> na nchi nyingine maskini. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Majivu ya mwanamke huyo yalipelekwa <mask> kuzikwa na mumewe. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, watu wanaendesha gari upande wa kushoto wa barabara. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Watu wenye uhusiano na <mask> hutoa vifaa, wakati kanisa linalipa ada ya mizigo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Tembo wa <mask> ni mimea tu ambayo hula kutoka kwa miti ya tini na malisho barabarani. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Majivu ya mwanamke huyo yalipelekwa <mask> kuzikwa na mumewe. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanariadha wa <mask> wanatawala tukio hilo karibu kama wanavyofanya mwinuko. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> ni nchi iliyoko Afrika ambayo inajulikana kwa uzalishaji wake wa chai. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kila kit hufanya Bracelet moja ya Rafiki, iliyoongozwa na mila za shanga nchini <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> imekuwa na changamoto ya umaskini na njaa, ambayo imesababisha uhaba wa chakula. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Hema hizo zimeandaliwa vizuri kwa kutumia vitambaa vya kienyeji na mapambo ya jadi ya <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, mvua ndefu kawaida hufika mwishoni mwa Machi na hudumu hadi mwanzoni mwa Mei. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Sahani maarufu nchini <mask> ni nyama choma na ugali, ambazo huliwa na watu wa makabila yote. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Tembo nchini <mask> wanaonekana katika hali tofauti, kuanzia kulala hadi kulisha hadi kuoga. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> huleta jammy iliyoiva, noti nyekundu za matunda kwa cer tajiri wa Costa Rica, tamu . . . Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kahawa ya <mask> inajulikana kwa tindikali yake ya juu, ladha angavu, na chupi za mvinyo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kuku ni maarufu nchini <mask> ambayo hutumiwa na familia nyingi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Vitabu vya <mask> vinazingatia umoja wa familia na upendo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wafugaji nchini <mask> wanahangaika kutafuta maji kwa ajili ya ng'ombe wao wakati wa kiangazi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> inajulikana kwa uzalishaji wake wa kahawa, kukua maharagwe ya Kiarabu kama vile aina ya Mlima wa Bluu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Katika Afrika, tamarind kuendeleza katika maeneo ya kigeni ya Senegal na <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, sare ni muhimu na zinahitajika kwenda shule. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanawake wa <mask> ni waaminifu sana na wanalea kwa asili. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Uhamiaji wa kila mwaka wa wildebeest ni moja ya matukio maarufu zaidi ya <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kila sanduku lina lebo ya kipekee ambayo imetengenezwa kwa mikono na wanawake magharibi mwa <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanaume wa <mask> wanaruhusiwa kuwa na mke zaidi ya mmoja, ikiwa mke wa kwanza atakubali. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Wanyama hao huhamia <mask> mwishoni mwa Julai/Agosti. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Likizo za <mask> ni ndefu na zimejaa shughuli. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Sunny Dolat ni gem katika eneo la mitindo nchini <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Chai ya <mask> inajulikana kwa ladha yake ya kipekee, harufu, na rangi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Baadhi ya maeneo ya dunia, kama vile <mask>, bado hufanya mazoezi ya kukimbia kwa miguu. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> inajulikana kwa mananasi yake, ambayo hupandwa katika wilaya ya Thika. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Polygamy ni halali nchini <mask> ikiwa iko chini ya mila za kidini au kitamaduni. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> ina ardhi nyingi ambayo ni nzuri kwa ajili ya kulima pamba. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Mgogoro wa chakula nchini <mask> unasababishwa na ukame wa mara kwa mara nchini humo. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, mara nyingi watu hula mchwa mbichi au kuchomwa juu ya moto ulio wazi. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Majani yaliyotumika katika mchanganyiko huu hutoka <mask> na Assam. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Chai nyeusi ya <mask> ni miongoni mwa bora zaidi duniani, na hutumiwa hasa kwa kuchanganya. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, mwaka wa fedha huanza mwezi Julai na kumalizika mwezi Juni mwaka uliofuatia. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Majani yaliyotumika katika mchanganyiko huu hutoka <mask> na Assam. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Sisal mbili za msingi kutoka <mask> hushika na kushikilia mishale inayoonekana kuwa bora kuliko zingine. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Ndizi ni zao kuu nchini <mask> na hupandwa kwa ajili ya chakula na madhumuni mengine. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Kilimo ni moja ya wachangiaji wakubwa katika pato la taifa la <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Akina mama wa <mask> hufanya kinyume na kile ambacho kina mama wa Marekani hufanya. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Nchini <mask>, viazi ni mboga maarufu ambayo hutumiwa katika sahani nyingi tofauti. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: Maharagwe yanayotumika katika sahani hii hutoka duniani kote, lakini wengi wao wanatoka <mask>. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            },
+            {
+                "prompt": "Kamilisha sentensi kwa jina la nchi: <mask> ni nchi iliyoko Afrika ambayo inajulikana kwa uzalishaji wake wa kahawa. Jibu katika umbizo la json la {\"Answer\": }.",
+                "answer": "Kenya"
+            }
+        ]
+    }
+}
